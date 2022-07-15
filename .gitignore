@@ -1,0 +1,5 @@
+# Matlab autosave file
+*.asv
+
+# Data file
+sample/data/*
