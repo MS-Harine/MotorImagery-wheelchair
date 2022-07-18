@@ -1,5 +1,5 @@
 clear;
-data = load_data();
+data = load_NCSU_data();
 clc;
 
 %% Hyperparameter
